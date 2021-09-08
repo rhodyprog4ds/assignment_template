@@ -3,13 +3,13 @@ name: todo list
 about: use this to plan for the week
 title: 'todo: '
 labels: ''
-assignees: 
+assignees:
 
 ---
 
 <!-- You can edit any of these based on your plan and then once you create the issue they'll be a checklist-->
 
-Read [class notes](https://rhodyprog4ds.github.io/BrownFall20/notes/index.html):
+Read [class notes](https://rhodyprog4ds.github.io/BrownFall21/notes/index.html):
 - [ ] Monday
 - [ ] Wednesday
 - [ ] Friday
@@ -24,8 +24,8 @@ General:
 - [ ] add to your portfolio based on last week's topic(s)
 
 Assignment Todo:
-- [ ] 
+- [ ]
 
 Questions:
 _list questions here and then check them off when you find the answers_
-- [ ] 
+- [ ]
